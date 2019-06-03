@@ -1,0 +1,23 @@
+{
+  "name": "userlogin",
+  "version": "1.0.0",
+  "description": "userLogin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarjsr/userloginnode.git"
+  },
+  "author": "sagar kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarjsr/userloginnode/issues"
+  },
+  "homepage": "https://github.com/sagarjsr/userloginnode#readme",
+  "dependencies": {
+    "mongoose": "^5.5.12",
+    "underscore": "^1.9.1"
+  }
+}
