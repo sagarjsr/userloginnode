@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/sagarjsr/userloginnode#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "jshint": "^2.10.2",
     "mongoose": "^5.5.12",
     "underscore": "^1.9.1"
   }
